@@ -1,7 +1,7 @@
 "# LAPRAN-PyTorch"
 
 This repository is an PyTorch implementation of the paper
-**"LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction**.
+**"LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flexible Compressive Sensing Reconstruction"**.
 
 ## Code
 Clone this repository into any place you want.
