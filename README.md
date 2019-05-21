@@ -23,4 +23,7 @@ python main_adaptiveCS.py --model adaptiveCS_resnet_wy_ifusion_ufirst --dataset 
 
 Then you get a four-stage LAPRAN for the cifar10 dataset.
 
-## More codes of LAPRAN will be added to this repository later!
+## Testing
+The pretrained CIFAR10 model can be downloaded from: https://1drv.ms/u/s!AlFrf6JmyPHiv3IFGiGTvJtNfb7v
+
+You can evaluate the pretrained model by running: python eval_adaptiveCS.py
